@@ -1,5 +1,7 @@
-![Plan de travail 1](https://github.com/user-attachments/assets/625d02ce-5f9c-442a-840f-b108b2b9ad0d)
+![Plan de travail 1](https://github.com/user-attachments/assets/94473016-c249-426c-b6ef-132aad2085a3)
+
 Need this : bat
+
 ```bash
 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
